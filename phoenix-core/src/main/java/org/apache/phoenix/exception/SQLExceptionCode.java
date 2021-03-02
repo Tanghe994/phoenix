@@ -58,7 +58,7 @@ import static org.apache.phoenix.jdbc.PhoenixDatabaseMetaData.CHANGE_DETECTION_E
 
 
 /**
- * Various SQLException Information. Including a vendor-specific errorcode and a standard SQLState.
+ * Various SQLException Information. Including a vendor-specific error code and a standard SQLState.
  *
  *
  * @since 1.0

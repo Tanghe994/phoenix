@@ -46,7 +46,7 @@ import org.apache.phoenix.thirdparty.com.google.common.annotations.VisibleForTes
 import org.apache.phoenix.thirdparty.com.google.common.collect.Lists;
 import org.apache.phoenix.thirdparty.com.google.common.collect.Sets;
 
-/*
+/**
  * Implementation of a SQL foo IN (a,b,c) expression. Other than the first
  * expression, child expressions must be constants.
  *

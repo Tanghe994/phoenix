@@ -28,7 +28,7 @@ import org.apache.phoenix.memory.MemoryManager;
 
 /**
  * 
- * Inteface to set and set cached values for a tenant
+ * Interface to set and set cached values for a tenant
  *
  * 
  * @since 0.1

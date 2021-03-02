@@ -25,7 +25,7 @@ import org.apache.phoenix.schema.types.PDataType;
 
 /**
  * 
- * Subtract expression implementation
+ * Multiply expression implementation
  *
  * 
  * @since 0.1
